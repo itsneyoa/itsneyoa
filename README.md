@@ -1,4 +1,4 @@
-### Hey, I'm Tom - aka [neyoa][website]!
+### Hey, I'm [neyoa][website]!
 
 [![website](https://img.shields.io/website?label=neyoa.me&style=for-the-badge&url=https://neyoa.me)](https://neyoa.me)
 
