@@ -1,6 +1,6 @@
 ### Hey, I'm [neyoa][website] ✨
 
-![](https://github-readme-stats.vercel.app/api?username=itsneyoa&show_icons=true&theme=radical&custom_title=neyoa%27s%20GitHub%20Stats&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=itsneyoa&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true) 
 
 ### :zap: Recent Activity
 
